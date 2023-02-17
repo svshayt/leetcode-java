@@ -1,4 +1,5 @@
 # leetcode-java
 
-1342. 🟢 Number of Steps to Reduce a Number to Zero
-1672. 🟢 Richest Customer Wealth
+1342. 🔵 Number of Steps to Reduce a Number to Zero
+1337. 🔵 The K Weakest Rows in a Matrix
+1672. 🔵 Richest Customer Wealth
