@@ -1,5 +1,6 @@
 # leetcode-java
 
+383. 🔵 Ransom Note
 412. 🔵 Fizz Buzz
 1342. 🔵 Number of Steps to Reduce a Number to Zero
 1337. 🔵 The K Weakest Rows in a Matrix
